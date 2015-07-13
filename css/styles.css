@@ -101,7 +101,10 @@ a {
     display: inline; }
 
 .welcome {
-  margin-top: 2%; }
+  margin: 2.5% auto;
+  font-size: 1.5em;
+  text-align: center;
+  font-weight: 700; }
 
 body {
   background: #222222;
